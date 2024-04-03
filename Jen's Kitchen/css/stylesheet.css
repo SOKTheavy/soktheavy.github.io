@@ -1,0 +1,19 @@
+body{
+    margin: 8px;
+    padding: 25px 50px;
+    font-family: Georgia,'Consolas', 'Menlo', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', monospace;
+}
+#title{
+    color: #399;
+    font-size: 30px;
+    font-weight: bolder;;
+}
+#sub_title{
+    font-size: 26px;
+    color: #339999;
+}
+#footer{
+    padding-top: 30px;
+    color: #999999;
+    font-size: 11px;
+}
